@@ -1,0 +1,19 @@
+body {
+  background-color: #ddd;
+}
+.header {
+  height: 40px;
+}
+.content {
+  min-height: 500px;
+}
+.main-content {
+  background-color: white;
+  min-height: 500px;
+}
+.footer {
+  height: 40px;
+}
+.sidebar {
+  overflow: scroll;
+}
